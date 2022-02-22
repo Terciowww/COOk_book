@@ -1,9 +1,9 @@
-# Livro de Receitas :man_cook:
+- # Livro de Receitas :man_cook:
 
+  
 
+  Ola!  Bem vindo ao nosso livro de receitas.
 
-Ola!  Bem vindo ao nosso livro de receitas.
-
-- Strogonoff de Frango :chicken:
-- Macarronada
-- 
+  - Strogonoff de Frango :chicken:
+  - Pave
+  - Macarronada
